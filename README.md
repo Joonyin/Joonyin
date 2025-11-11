@@ -10,7 +10,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,scikitlearn,opencv,tensorflow,pytorch,mysql,anaconda,git,linux,react,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=python,scikitlearn,opencv,tensorflow,pytorch,mysql,git,linux,react,html,css,js" />
   <img src="https://skillicons.dev/icons?i=aws,supabase" />
 </p>
 
